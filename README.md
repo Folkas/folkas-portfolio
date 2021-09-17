@@ -18,7 +18,7 @@ This repository contains Folkas' portfolio with data science projects, collected
 **Description**: this project was my 4.2 sprint project. This task is a Kaggle's Toxic Comment Classification Challenge, where I had to create a model to identify (0 or 1) toxic comments and classify them into 6 multi-label categories. After performing data cleaning, I used Pytorch Lightning framework to create classes for dataset and DistilBertForSequenceClassification model. During the training, I logged data with Tensorboard for visualizations and then tested its performance using several metrics (classification report, AUROC score, confusion matrix.
 
 ## 3. Multiobjective project (age and gender classifier)
-**Files**: [Multiobjective classifier](https://github.com/Folkas/folkas-portfolio/blob/main/Multiobjective_classifier.ipynb) or [Google colab link[(https://colab.research.google.com/drive/1H3RG7YnJKTXy8gd1xDNnYdzg6XKcbcbK?usp=sharing)
+**Files**: [Multiobjective classifier](https://github.com/Folkas/folkas-portfolio/blob/main/Multiobjective_classifier.ipynb) or [Google colab link](https://colab.research.google.com/drive/1H3RG7YnJKTXy8gd1xDNnYdzg6XKcbcbK?usp=sharing)
 
 **Technologies used**: AI ethics & fairness, LIME image explainer, Computer vision, Object detection, multi-task learning, transfer learning, Convolutional neural networks
 
