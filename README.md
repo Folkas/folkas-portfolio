@@ -25,7 +25,7 @@ This repository contains Folkas' portfolio with data science projects, collected
 **Description**: this project is dedicated for Kaggle face competition, in which I participated as a part of deep learning module's sprint project. In this task I need to train a multiobjective image classifier, which predicts age and gender from human face photos. This project is unique, because I analyze the results from the ethical perspective. I conclude that using face photos to predict a person's age could lead to discrimination in some cases.
 
 ## 4. NLP classification project (Fake news classifier)
-**Files**: [Fake news classifier](https://github.com/Folkas/folkas-portfolio/blob/main/Fake_news_classifier.ipynb) or [Google colab link[(https://colab.research.google.com/drive/1B5p86ppU-SCyukpzNTGQ3En0Kt3zoR5U?usp=sharing)
+**Files**: [Fake news classifier](https://github.com/Folkas/folkas-portfolio/blob/main/Fake_news_classifier.ipynb) or [Google colab link](https://colab.research.google.com/drive/1B5p86ppU-SCyukpzNTGQ3En0Kt3zoR5U?usp=sharing)
 
 **Technologies used**: Decision trees, Gradient boosted tree, Hyperparameter tuning, Model selection, Transformer architectures, Pytorch Lightning, Tensorboard, Lime Text Explainer
 
