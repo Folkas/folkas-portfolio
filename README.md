@@ -1,6 +1,6 @@
 # About Portfolio
 
-This repository contains Folkas' portfolio with data science projects, collected during studies at Turing College.
+This repository contains Folkas' portfolio with data science projects, collected during studies at Turing College. Use Google colab links for better visual presentation.
 
 ## 1. Project with SQL
 
